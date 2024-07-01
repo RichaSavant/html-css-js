@@ -1,0 +1,5 @@
+table{width:90%; align-items:center; border-width: 2px; border-style: solid; padding:5px;}
+td{text-align:center; border:1px solid; padding:10px}
+th{text-align:center;background-color:blue; color:white;}
+h3{transform: rotate(270deg);}
+h4{transform: rotate(270deg);}

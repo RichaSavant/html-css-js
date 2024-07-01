@@ -1,0 +1,27 @@
+<HTML>
+<HEAD>
+<TITLE>IMAGE MAP</TITLE>
+</HEAD>
+<BODY>
+<IMG SRC="https://www.indiatravelblog.net/wp-content/uploads/2020/05/india-states-and-union-territories-map-.png">
+
+<MAP NAME="shapes">
+<AREA SHAPE="RECT"
+COORDS="6,14,81,74"
+HREF="https://www.w3schools.com/html/html_images_imagemap.asp"
+ALT="RECTANGLE">
+
+<AREA SHAPE="CIRCLE"
+COORDS="232,96,22"
+HREF="https://www.w3schools.com/php/"
+ALT="CIRCLE">
+
+<AREA SHAPE="POLY"
+COORDS="144,99,152,95,213,95,228,116,226,155,144,152"
+HREF="https://www.w3schools.com/html/"
+ALT="POLYGON">
+
+
+</MAP>
+</BODY>
+</HTML>
